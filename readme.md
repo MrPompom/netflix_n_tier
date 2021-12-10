@@ -9,7 +9,7 @@ npm install
 ```
 To test the Netflix page
 ```windows
-execute the file netflix
+execute the file browse.html
 ```
 
 ## Contributing

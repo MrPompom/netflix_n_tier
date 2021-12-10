@@ -1,15 +1,12 @@
 # Netflix_n_tier
 Netflix_n_tier with HTML 5 and tailwind
-## Installation
 
-Install dependencies with npm or yarn
+This is a reproduction of Netflix with tailwind
+## Execute
 
-```bash
-npm install
-```
-To test the Netflix page
+To execute the Netflix page you can execute the file
 ```windows
-execute the file browse.html
+browse.html
 ```
 
 ## Contributing
